@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">Catálogo de Produtos</string>
+    <string name="catalog_title">Catálogo de Produtos</string>
+    <string name="catalog_subtitle">Escolha um produto para conhecê-lo melhor</string>
+    <string name="featured_product">Produto em destaque</string>
+    <string name="choose_product">Escolha um produto</string>
+    <string name="no_product_selected">Nenhum produto selecionado</string>
+    <string name="available_products">Produtos disponíveis</string>
+    <string name="details">DETALHES</string>
+    <string name="clear">LIMPAR</string>
+    <string name="back">VOLTAR</string>
+    <string name="selection_cleared">Seleção removida</string>
+    <string name="select_before_details">Selecione um produto antes de abrir os detalhes</string>
+    <string name="select_headphones">Selecionar Fones Aurora</string>
+    <string name="select_camera">Selecionar Câmera Prisma</string>
+    <string name="select_notebook">Selecionar Notebook Vision Pro</string>
+    <string name="product_details">Detalhes do produto</string>
+    <string name="description_label">Descrição</string>
+    <string name="additional_information_label">Informações adicionais</string>
+
+    <string name="headphones_name">Fones Aurora</string>
+    <string name="headphones_description">Fones de ouvido sem fio desenvolvidos para oferecer conforto durante longos períodos de uso, com som equilibrado e acabamento moderno.</string>
+    <string name="headphones_information">Conectividade: Bluetooth 5.3\nAutonomia: até 30 horas com o estojo\nRecursos: microfone integrado e controle por toque\nCor: preto e dourado</string>
+
+    <string name="camera_name">Câmera Prisma</string>
+    <string name="camera_description">Câmera digital compacta e versátil para registrar viagens, eventos e momentos especiais com praticidade e ótima definição.</string>
+    <string name="camera_information">Resolução: 24 megapixels\nVídeo: Full HD\nZoom óptico: 10x\nConectividade: Wi-Fi e USB-C</string>
+
+    <string name="notebook_name">Notebook Vision Pro</string>
+    <string name="notebook_description">Notebook voltado para estudos, produtividade e desenvolvimento de software, combinando desempenho, mobilidade e armazenamento rápido.</string>
+    <string name="notebook_information">Processador: 8 núcleos\nMemória RAM: 16 GB\nArmazenamento: SSD de 512 GB\nTela: 15,6 polegadas Full HD</string>
+</resources>
